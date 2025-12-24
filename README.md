@@ -3,7 +3,7 @@
 
 # 🚀 Next-Nest-Better-Auth Starter Kit
 
-A high-performance, type-safe, full-stack starter kit featuring **Next.js 15**, **Nest.js 11**, and **Better-Auth**. This kit implements a robust "Shared Database Session" architecture, allowing seamless authentication across a decoupled frontend and backend.
+A high-performance, type-safe, full-stack starter kit featuring **Next.js 16**, **Nest.js 11**, and **Better-Auth**. This kit implements a robust "Shared Database Session" architecture, allowing seamless authentication across a decoupled frontend and backend.
 
 ## 🏗️ Architecture Overview
 
